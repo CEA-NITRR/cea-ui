@@ -1,0 +1,20 @@
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+.loading-gif {
+  width: 100px; 
+  height: auto;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #333;
+}
